@@ -16,7 +16,7 @@
     }
   },
   "require": {
-    "drupal/simplesamlphp_auth": "^3.0"
+    "drupal/simplesamlphp_auth": "4.x-dev"
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
